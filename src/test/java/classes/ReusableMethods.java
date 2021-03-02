@@ -24,7 +24,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class ReusableMethods
 {
-    //properties
+    //properties for reusable
 	private RemoteWebDriver driver;
 	private ExtentReports er;
 	private ExtentTest et;
