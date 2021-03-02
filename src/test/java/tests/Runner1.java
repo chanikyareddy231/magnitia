@@ -9,7 +9,7 @@ public class Runner1 {
 
 	public static void main(String[] args) throws Exception
 	{
-		//Run in local host
+		//Run in local host not cloud
 		//Take test data from keyboard
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter browser name");
